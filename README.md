@@ -1,5 +1,7 @@
 # MHRiseのいらない護石を教えてくれるやつ
 
+右上の Code の Download ZIP から落とせる  
+
 使い方  
 サンプル.csvみたいな感じで手持ちの護石のIn.csvを作る  
 PythonダウンロードしてきてIranGoseki_v1.0.pyを走らせる  
