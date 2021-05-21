@@ -83,7 +83,6 @@ def main():
 
     f = open('Out.csv', 'w', encoding="utf_8", newline='')
     writer = csv.writer(f)
-    #writer.writerow(header)
     for row in syuList:
         writer.writerow(row)
     f.close()
